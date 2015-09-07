@@ -51,14 +51,14 @@ Deliverables
 - Pink: #554466
 
 3.  Create the following layout using relative positioning:
-     ![Codepen Image 1](/Curriculum/images/relative.png)
+     ![Codepen Image 1](images/relative.png)
 
 4.  Create the following layout using absolute positioning:
-     ![Codepen Image 2](/Curriculum/images/absolute.png)
+     ![Codepen Image 2](images/absolute.png)
 
 5.  Create the following layout using fixed positioning (the pink box should remain in view while scrolling):
 
-     ![Codepen Image 3](/Curriculum/images/fixed.png)
+     ![Codepen Image 3](images/fixed.png)
 
 #### Hard Mode
 - Create your codepen in steps 1 & 2 with 41 or less lines of well-formed CSS and no additional classes except for the ones defined in the instructions
