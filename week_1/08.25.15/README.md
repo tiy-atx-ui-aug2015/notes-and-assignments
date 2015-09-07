@@ -53,7 +53,7 @@
 * Sign up for a [Codepen Account](http://codepen.io/) with your Github login
 
 #### CSS Positioning Codepens
-- [Details](assignments/positioning-codepens)
+- [Details](assignments/positioning-codepens.md)
 
 #### Additional Resources/Reading
 - [Using Codepen](https://css-tricks.com/video-screencasts/112-using-codepen/)
