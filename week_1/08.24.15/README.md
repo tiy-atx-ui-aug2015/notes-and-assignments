@@ -1,3 +1,5 @@
+# Welcome and HTML and CSS Basics
+
 #### Notes:
 - Welcome and expectations
 - Computer Setup
