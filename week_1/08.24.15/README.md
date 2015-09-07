@@ -40,7 +40,7 @@
 - [CSS Positioning Video](https://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/) 
 
 #### About Me Page
-- [Details](/about-me-page.md)
+- [Details](about-me-page.md)
 
 #### Design Critique
 - Find one example of a website that has good design and be ready to defend the your decision
