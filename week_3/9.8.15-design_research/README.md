@@ -127,5 +127,10 @@
 - Find one example of a restaurant website that has good design and be ready to defend the your decision
 
 #### Additional Resources/Reading
+- [Codepen Design Research](http://codepen.seesparkbox.com/)
+- [Cultural Probe](http://alistapart.com/article/culturalprobe)
+- [Sahale Case Study](http://www.gravitatedesign.com/work/sahale/)
+- [Share Button Tests](http://exisweb.net/truth-about-share-buttons)
+- [Hamburger Menu Test](http://exisweb.net/menu-eats-hamburger)
 
 
