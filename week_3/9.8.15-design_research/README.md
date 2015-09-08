@@ -121,7 +121,7 @@
 - [Complete Beginner's Guide to Design Research](http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
 
 #### Restaurant Website Research
-- [Details](assignments/research-for-restaurant-website.md)
+- [Details](assignments/research-for-restaurant-site.md)
 
 #### Design Critique
 - Find one example of a restaurant website that has good design and be ready to defend the your decision
