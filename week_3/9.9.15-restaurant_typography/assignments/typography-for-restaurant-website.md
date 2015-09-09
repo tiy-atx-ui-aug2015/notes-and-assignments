@@ -1,8 +1,5 @@
----
-layout: assignment
-title:  "Typography for Restaurant Website"
-permalink: /09.07.15/typography-for-restaurant-website/
----
+# Typography for Restaurant Website
+
 #### Description
 Begin typographic discovery for your restaurant website by creating 10 typographic specemins for your website.  Use Photoshop to create 10 possible typographic directions.
 

@@ -1,9 +1,4 @@
----
-layout: assignment
-title:  "Sketches for Restaurant Website"
-permalink: /09.08.15/resaturant-website-sketches/
----
-Site map
+# Sketches for Restaurant Website
 
 #### Description
 Begin layout discovery for your restaurant website by creating 9 sketches of possible small and large screen options for your website's home page, menu page and the page of your choice.  Each page should have one small screen version and one large screen version and there should be 9 total pages of sketches.

@@ -1,8 +1,5 @@
----
-layout: assignment
-title:  "Blog Post on Typographic Discovery"
-permalink: /09.07.15/typographic-discovery-blog-post/
----
+# Blog Post on Typographic Discovery
+
 #### Description
 Write a blog post on your experience thus far with typography and creating typographic elements as a way to explore possible directions for your redesign.
 
