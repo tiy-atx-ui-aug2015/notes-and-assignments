@@ -1,0 +1,24 @@
+.box {
+  color: red;
+  width: 100px;
+  height: 100px;
+  background-color: green; }
+
+.demo:hover {
+  -webkit-animation: scale 1s ease-in, slide 2s ease;
+  -moz-animation: scale 1s ease-in, slide 2s ease;
+  animation: scale 1s ease-in, slide 2s ease;
+  -webkit-animation-name: scale, slide;
+  -moz-animation-name: scale, slide;
+  animation-name: scale, slide;
+  -webkit-animation-duration: 2s;
+  -moz-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-timing-function: ease;
+  -moz-animation-timing-function: ease;
+  animation-timing-function: ease;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  animation-iteration-count: infinite; }
+
+/*# sourceMappingURL=main.css.map */

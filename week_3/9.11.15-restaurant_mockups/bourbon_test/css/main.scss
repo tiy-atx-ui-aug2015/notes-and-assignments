@@ -1,0 +1,16 @@
+@import 'bourbon/bourbon';
+
+.box {
+	color: red;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
+
+.demo:hover {
+	@include animation(scale 1.0s ease-in, slide 2.0s ease);
+	  @include animation-name(scale, slide);
+	  @include animation-duration(2s);
+	  @include animation-timing-function(ease);
+	  @include animation-iteration-count(infinite);
+}
