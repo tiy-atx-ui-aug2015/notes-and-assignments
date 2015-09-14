@@ -1,0 +1,23 @@
+main {
+	background-color: red;
+}
+
+.inner-wrapper {
+	background-color: gray;
+	height: 12em;
+}
+
+
+.navbar-inverse .navbar-toggle .icon-bar {
+	background-color: red;
+}
+
+h1 a {
+	color: yellow;
+	font-size: 50px;
+}
+
+h1 a:hover {
+	color: black;
+	text-decoration: none;
+}
