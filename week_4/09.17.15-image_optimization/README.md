@@ -80,7 +80,7 @@
 - create 1 issue for each classmate on Github with comments on their style tile options for the CSS Zen Garden website
 
 #### CSS Zen Garden Research
-- [Details](assignments/css-zen-garden.md)
+- [Details](assignments/css_zen_garden.md)
 
 #### Additional Resources/Reading
 -[Web Accessibility Course with Google](https://webaccessibility.withgoogle.com/course)
