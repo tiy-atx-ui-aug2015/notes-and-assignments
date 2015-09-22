@@ -12,7 +12,7 @@
         * Subjective Research
             - “What is your favorite color?”
             - “Do you trust this company?”
-            - “Does my ass look fat in these pants?”
+            - “Do I look nerdy in these glasses”?
         * Objective Research
             - “How long did you spend using our app?”
             - “Where did you find the link to our site?”
@@ -80,6 +80,10 @@
 
 - http://uxmag.com/content/comic-the-ux-designer-paradox
 - http://www.mprove.de/script/00/upa/_media/upaposter_85x11.pdf
+
+- In class case study:
+    + ![User Info](images/user_info.jpg)
+    + ![User Flow](images/user_flow.jpg)
 
 #### Reading/Video Assignments
 - [What is User Experience Design](http://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/)
