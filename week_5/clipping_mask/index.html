@@ -1,0 +1,44 @@
+<!DOCTYPE>
+<html>
+	<head>
+	<style>
+		.clip-me { 
+
+		  /* referencing path from an inline SVG <clipPath> */
+		  clip-path: url(#clipping); 
+
+		  /* referencing path from external SVG */
+		  clip-path: url(path.svg#c1);
+
+		  /* polygon */
+		  clip-path: polygon(5% 5%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%);
+
+		  /* circle */
+		  clip-path: circle(30px at 35px 35px);
+
+		  /* ellipse */
+		  clip-path: ellipse(65px 30px at 125px 40px);
+
+		  /* inset-rectangle() may replace inset() ? */
+		  /* rectangle() coming in SVG 2 */
+
+		  /* rounded corners... not sure if a thing anymore */
+		  clip-path: inset(10% 10% 10% 10% round 20%, 20%);
+
+		}
+	</style>
+	</head>
+	<body>
+
+		<img class="clip-me" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/Harry-Potter-1-.jpg">
+
+<p class="clip-me">
+  I'll be clipped.
+</p>
+
+<clipPath id="clipping">
+  <circle cx="150" cy="150" r="50" />
+  <rect x="150" y="150" width="100" height="100" />
+</clipPath>
+	</body>
+</html>
