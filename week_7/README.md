@@ -1,26 +1,26 @@
-# Week 6
+# Week 7
 
-<h3>Jekyll, Prototyping, and Pixel Perfect Design</h3>
+<h3>Javascript, Jquery, and Mobile App Design</h3>
 <h4>Objectives</h4>
-<p>This week we will cover topics including how to use Jekyll for your portfolio site, the different methods of prototyping, and creating pixel perfect mockups.  By the end of the week, the student will:</p>
+<p>This week we will cover topics including Javascript if statements and loops, Jquery basics, and mobile app design principles.</p>
 <ul>
-    <li>understand the basics of Jekyll and how to add posts to their Jekyll blog</li>
-    <li>understand the purpose and methods for creating effective prototypes</li>
-    <li>be able to creat pixel perfect mockups in Illustrator</li>
+    <li>understand the basics of Javascript if statements, loops, and functions</li>
+    <li>be able to use Jquery to create interactive elements on their websites</li>
+    <li>understand native mobile app design principles and be able to implement them in a functioning prototype</li>
 </ul>
 
 <h4>Notes and Assignments</h4>
 <ul>
     <li>
-        <a href="09.28.15/">09.28.15: Introduction to Jekyll</a>
+        <a href="10.05.15/">10.05.15: Javascript and Jquery</a>
     </li>
     <li>
-        <a href="09.29.15/">09.29.15: Prototyping Basics</a>
+        <a href="10.06.15/">10.06.15: Mobile App Design Principles and Iteration</a>
     </li>
     <li>
-        <a href="09.30.15/">09.30.15: Basics of Javascript</a>
+        <a href="10.07.15/">10.07.15: Invision App</a>
     </li>
     <li>
-        <a href="10.01.15/">10.01.15: Basics of JQuery</a>
+        <a href="10.08.15/">10.08.15: Workday</a>
     </li>
 </ul>
