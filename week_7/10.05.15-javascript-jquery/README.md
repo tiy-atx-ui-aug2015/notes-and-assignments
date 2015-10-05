@@ -37,6 +37,9 @@
            document.write("<b>Unknown Book</b>");
         }
 - For Loop with If statement inside
+- [Codepen Array vs Object](http://codepen.io/abbylarner/pen/WQjNmz?editors=101)
+- [Codepen If/Else](http://codepen.io/abbylarner/pen/qOmEBO)
+- [Codepen Loop](http://codepen.io/abbylarner/pen/VvbYvm)
 
 #### Reading/Video Assignments
 - [Javascript For](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
