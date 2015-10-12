@@ -1,26 +1,27 @@
-# Week 6
+# Week 8
 
-<h3>Jekyll, Prototyping, and Pixel Perfect Design</h3>
+<h3>Jekyll with Github, Jquery Plugins, Branding, Logo Design, Content Strategy</h3>
 <h4>Objectives</h4>
-<p>This week we will cover topics including how to use Jekyll for your portfolio site, the different methods of prototyping, and creating pixel perfect mockups.  By the end of the week, the student will:</p>
+<p>This week we will cover topics including an introduction to branding, how to design logos and icons, and the basics of content strategy.</p>
 <ul>
-    <li>understand the basics of Jekyll and how to add posts to their Jekyll blog</li>
-    <li>understand the purpose and methods for creating effective prototypes</li>
-    <li>be able to creat pixel perfect mockups in Illustrator</li>
+    <li>understand how to setup a github pages account with Jekyll site</li>
+    <li>be able to include a jquery plugin and retro-fit it into a project</li>
+    <li>understand the process for logo and icon design</li>
+    <li>understand the basics of content strategy</li>
 </ul>
 
 <h4>Notes and Assignments</h4>
 <ul>
     <li>
-        <a href="09.28.15/">09.28.15: Introduction to Jekyll</a>
+        <a href="10.12.15/">10.12.15: Setting up Jekyll with Github Pages, Jquery Plugins</a>
     </li>
     <li>
-        <a href="09.29.15/">09.29.15: Prototyping Basics</a>
+        <a href="10.13.15/">10.13.15: Introduction to Branding/Review of Jekyll</a>
     </li>
     <li>
-        <a href="09.30.15/">09.30.15: Basics of Javascript</a>
+        <a href="10.14.15/">10.14.15: Logo and Icon Design</a>
     </li>
     <li>
-        <a href="10.01.15/">10.01.15: Basics of JQuery</a>
+        <a href="10.15.15/">10.15.15: Basics of Content Strategy/SEO</a>
     </li>
 </ul>
