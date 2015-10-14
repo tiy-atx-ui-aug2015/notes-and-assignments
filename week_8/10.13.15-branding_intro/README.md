@@ -59,6 +59,8 @@
 - [The Power of Branding](http://www.designcouncil.org.uk/news-opinion/power-branding)
 - [Branding for Beginners](http://www.thehartford.com/business-playbook/in-depth/defining-business-brand)
 - [Start with Why](https://www.youtube.com/watch?v=sioZd3AxmnE)
+- [Personality in Design](http://alistapart.com/article/personality-in-design)
+- [Human to Human Design](http://alistapart.com/article/humantohuman)
 
 #### Style Tiles for Portfolio Site
 - Create 3 style tiles for your personal portfolio site
