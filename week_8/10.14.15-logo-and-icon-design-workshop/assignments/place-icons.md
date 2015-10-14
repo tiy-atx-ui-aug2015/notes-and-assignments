@@ -15,4 +15,4 @@ After completing this assignment, you should be able to effectively
 
 #### Details
 Deliverables
-- Add questions and responses to an md file in "day_38" folder in tiy\_assignments and push to Github
+- Add icons to "day_38" folder in tiy\_assignments and push to Github
