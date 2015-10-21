@@ -3,6 +3,12 @@
 #### Description
 Using what you learned in class about style guides, create a style guide for an project you created in this class.
 
+Tonight you should:
+- Decide on a project to use for your style guide
+- Do an [interface inventory](http://bradfrost.com/blog/post/interface-inventory/)
+- Decide what patters/topics you want to include in your style guide
+- Begin writing content about your patterns
+
 #### Objectives
 - Be able to use design principles to create .
 
