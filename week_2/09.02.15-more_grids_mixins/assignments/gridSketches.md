@@ -1,8 +1,3 @@
----
-layout: assignment
-title:  "Grid Sketches"
-permalink: /Curriculum/week2/09.02.15/grid-sketches/
----
 #### Description
 A big part of your process is going to be sketching website layouts to figure out the best possible interaction for your users.  This is a very important _first_ step before you jump into design or code.  Sketching allows you to get all of your ideas on paper, and while you want to try to be neat, you don't have to be perfect (no rulers necessary!).  Make sure to include the grid columns, type of grid, and enough information so that a person with no context would understand the elements in your sketch. Also, make sure to include how many coluns the grid has.
 
@@ -11,12 +6,12 @@ Here's an example of a good sketch, and an example of a bad sketch:
 #### Bad Example
 Not a lot of detail, it’s hard to see the grid throughout the whole image, not a lot of labeling of sections. 
 
-![Bad Example of a Sketch](/Curriculum/images/bad_example.jpg)
+![Bad Example of a Sketch](bad_example.jpg)
 
 #### Good Example
 A lot of detail, lots of labeling, including the name or address of the website. Grid columns are noticeable.  
 
-![Good Example of a Sketch](/Curriculum/images/good_example.jpg)
+![Good Example of a Sketch](good_example.jpg)
 
 Use the following sites to create your sketches:
 - [Mashable](http://mashable.com/)
